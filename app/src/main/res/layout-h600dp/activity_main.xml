@@ -43,14 +43,14 @@
         </android.support.design.widget.AppBarLayout>
         <fragment
             android:id="@+id/selector_fragment"
-            android:name="com.example.fernando.tareapractica1.fragments.SelectorFragment"
+            android:name="com.example.audiolibro_v1.fragments.SelectorFragment"
             android:layout_width="0dp"
             android:layout_height="match_parent"
             android:layout_weight="1"
             />
         <fragment
             android:id="@+id/detalle_fragment"
-            android:name="com.example.fernando.tareapractica1.fragments.DetalleFragment"
+            android:name="com.example.audiolibro_v1.fragments.DetalleFragment"
             android:layout_width="0dp"
             android:layout_height="match_parent"
             android:layout_weight="1" />
